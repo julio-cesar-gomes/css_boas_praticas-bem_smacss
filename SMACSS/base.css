@@ -1,0 +1,10 @@
+/* segundo o smacss a base seria o arquivo que manipulamos elementos de nivel tag */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
